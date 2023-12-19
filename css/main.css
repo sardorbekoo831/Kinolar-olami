@@ -1,0 +1,48 @@
+.head{
+    text-align: center;
+}
+
+.card-title{
+    text-align: left;
+}
+
+.button{
+    text-align: left;
+}
+
+.head1{
+    text-align: left;
+}
+
+.head3{
+    text-align: left;
+    margin-top: -25px;
+}
+
+.text{
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.col{
+    display: flex;
+    gap: 50px;
+    margin-left: -10px;
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.next{
+    margin-left: 330px;
+    margin-top: 100px;
+}
+
+.link{
+    text-decoration: none;
+}
